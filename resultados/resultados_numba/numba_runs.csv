@@ -1,0 +1,3 @@
+variant,threads,primes_count,time_s
+numba_serial,1,1229,0.00011389199789846316
+numba_parallel,1,1229,0.00011926699880859815

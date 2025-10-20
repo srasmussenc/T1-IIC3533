@@ -1,0 +1,9 @@
+impl,threads,time_s,notes
+OpenMP,1,235.8215,OpenMP p=1 (unset average)
+OpenMP,2,128.9735,OpenMP p=2 (static 10 best)
+OpenMP,4,82.18265,OpenMP p=4 (dynamic 100 best)
+OpenMP,8,66.2795,OpenMP p=8 (dynamic 1 best)
+Numba,1,231.8626384570016,Numba serial (njit)
+Numba,2,155.06590682300157,Numba parallel p=2
+Numba,4,101.85977895999895,Numba parallel p=4
+Numba,8,74.81131153299793,Numba parallel p=8
