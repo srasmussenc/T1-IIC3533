@@ -1,0 +1,9 @@
+variant,threads,primes_count,time_s
+numba_serial_base,1,21336326,264.4051331
+numba_serial_base,1,21336326,282.03177489999996
+numba_weak_scale,2,41146179,572.6948664
+numba_weak_scale,2,41146179,568.6207053999999
+numba_weak_scale,4,79451833,901.6459413
+numba_weak_scale,4,79451833,896.8929754999999
+numba_weak_scale,8,153600805,1534.9696743
+numba_weak_scale,8,153600805,1546.2232953999992
